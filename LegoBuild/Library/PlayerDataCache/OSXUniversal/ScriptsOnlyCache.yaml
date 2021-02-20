@@ -1834,4 +1834,5 @@ ScriptsOnlyBuild:
   - Assets/LEGO/Scenes/Menu Intro.unity
   - Assets/LEGO/Scenes/Menu Win.unity
   - Assets/LEGO/Scenes/Menu Lose.unity
-  playerPath: /Volumes/Code/Repositories/LegoBuild/exe/LegoBuild Beta.app
+  playerPath: /Volumes/Code/Repositories/LegoBuild/exe/LegoBuild Referbished Test
+    Release.app
